@@ -1,0 +1,17 @@
+{
+	id: "cced50d6-fdc3-46e4-b1d9-211654fcbffa"
+	type: "player"
+	player_name: "Teek6000"
+	ranks: {
+		cced50d6-fdc3-46e4-b1d9-211654fcbffa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Teek6000"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "57033859-ce51-4e30-9ca9-b48fcc5f830c"
+	type: "player"
+	player_name: "Thrip"
+	ranks: {
+		57033859-ce51-4e30-9ca9-b48fcc5f830c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Thrip"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF595D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

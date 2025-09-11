@@ -1,0 +1,17 @@
+{
+	id: "482c950c-c37d-401f-ac36-00193952e4c6"
+	type: "player"
+	player_name: "SerBakon"
+	ranks: {
+		482c950c-c37d-401f-ac36-00193952e4c6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SerBakon"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FB59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

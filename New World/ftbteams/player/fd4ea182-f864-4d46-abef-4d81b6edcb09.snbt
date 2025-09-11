@@ -1,0 +1,17 @@
+{
+	id: "fd4ea182-f864-4d46-abef-4d81b6edcb09"
+	type: "player"
+	player_name: "Swanzeeel"
+	ranks: {
+		fd4ea182-f864-4d46-abef-4d81b6edcb09: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Swanzeeel"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF597F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
